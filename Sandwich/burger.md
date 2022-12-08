@@ -2,4 +2,6 @@ Steak
 Salade
 Tomate
 Cornichon
-Fromage
+Double Fromage
+Pain
+Frites
